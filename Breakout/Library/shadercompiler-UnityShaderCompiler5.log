@@ -1,0 +1,6 @@
+Base path: '/Applications/Unity/Unity.app/Contents', plugins path '/Applications/Unity/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=14 insize=1526 outsize=7480 ok=1
+
+Quitting shader compiler process
